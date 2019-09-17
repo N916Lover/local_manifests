@@ -3,6 +3,8 @@
   <remove-project name="android_frameworks_av" />
   <remove-project name="android_hardware_interfaces" />  
   <remove-project name="android_system_core" />
+  <remove-project name="android_hardware_broadcom_wlan" />
+
   <!--Device-->
   <project name="Exynos5433/android_device_samsung_trelte-common" path="device/samsung/trelte-common" remote="github" revision="lineage-16.0" />
   <project name="N916Lover/android_device_samsung_tre3calteskt" path="device/samsung/tre3calteskt" remote="github" revision="lineage-16.0" />
