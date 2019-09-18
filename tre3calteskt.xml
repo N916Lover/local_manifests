@@ -22,4 +22,5 @@
   <!--project name="Exynos5433/android_hardware_broadcom_wlan" path="hardware/broadcom/wlan" remote="github" revision="lineage-16.0" /-->
   <!--project name="Exynos5433/android_hardware_interfaces" path="hardware/interfaces" remote="github" revision="lineage-16.0" /-->
   <!--project name="ananjaser1211/android_system_core" path="system/core" remote="github" revision="pie" /-->
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
 </manifest>
