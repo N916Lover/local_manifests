@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!--remove-project name="android_frameworks_av" /-->
-  <remove-project name="android_hardware_interfaces" />  
+  <!--remove-project name="android_hardware_interfaces" /-->  
   <!--remove-project name="android_system_core" /-->
-  <remove-project name="android_hardware_broadcom_wlan" />
+  <!--remove-project name="android_hardware_broadcom_wlan" /-->
 
 
   <!--Device-->
@@ -19,7 +19,7 @@
   <project name="Exynos5433/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-16.0" />  
   <!--Custom Forks--> 
   <!--project name="Exynos5433/android_frameworks_av" path="frameworks/av" remote="github" revision="lineage-16.0" /-->  
-  <project name="Exynos5433/android_hardware_broadcom_wlan" path="hardware/broadcom/wlan" remote="github" revision="lineage-16.0" />
-  <project name="Exynos5433/android_hardware_interfaces" path="hardware/interfaces" remote="github" revision="lineage-16.0" />
+  <!--project name="Exynos5433/android_hardware_broadcom_wlan" path="hardware/broadcom/wlan" remote="github" revision="lineage-16.0" /-->
+  <!--project name="Exynos5433/android_hardware_interfaces" path="hardware/interfaces" remote="github" revision="lineage-16.0" /-->
   <!--project name="ananjaser1211/android_system_core" path="system/core" remote="github" revision="pie" /-->
 </manifest>
